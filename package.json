@@ -1,0 +1,15 @@
+{
+  "name": "grandmas-web",
+  "version": "1.0.0",
+  "description": "Wedsite",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d grandmas-web"
+  },
+  "author": "silas",
+  "license": "ISC",
+  "homepage": "https://silsilas.github.io/website",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
