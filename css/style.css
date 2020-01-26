@@ -320,3 +320,9 @@ footer{
   font-family: 'Cutive Mono', monospace;
 }
 
+@media  screen and (max-width: 600px) {
+  .d-flex {
+    flex-direction: column;
+  }
+}
+
